@@ -1,27 +1,34 @@
 [
     {
-        "id": "Essential-introduction",
-        "image": "/images/buttonImages/EssentialIntro.svg",
-        "text": "An Introduction to what Essential Digitial Skills are and what they can be used for!"
-    },
-    {
-        "id": "online-tools",
-        "image": "/images/buttonImages/EssentialTools.svg",
-        "text": "Learn about essential online tools that you need to know about! "
-    },
-    {
-        "id": "e-safety",
-        "image": "/images/buttonImages/EssentialSafety.svg",
-        "text": "Learn about safety online. As well as how to use your phone and browse the internet safely."
-    },
-    {
-        "id": "mobile-apps-for-creatives",
-        "image": "/images/buttonImages/EssentialCreatives.svg",
-        "text": "Check out some of the best creative mobile apps currently available!"
-    },
-    {
-        "id": "online-apps-for-productivity",
-        "image": "/images/buttonImages/EssentialProductivity.svg",
-        "text": "Check out some great online apps to help with you productivity"
+        "image": "/images/headerImages/Bannker6.png",
+        "text": "Essential Digital Skills",
+        "desc": "Welcome to your introduction to to Essential Digital Skills",
+        "buttons": [
+            {
+                "id": "Essential-introduction",
+                "image": "/images/buttonImages/EssentialIntro.svg",
+                "text": "An Introduction to what Essential Digitial Skills are and what they can be used for!"
+            },
+            {
+                "id": "online-tools",
+                "image": "/images/buttonImages/EssentialTools.svg",
+                "text": "Learn about essential online tools that you need to know about! "
+            },
+            {
+                "id": "e-safety",
+                "image": "/images/buttonImages/EssentialSafety.svg",
+                "text": "Learn about safety online. As well as how to use your phone and browse the internet safely."
+            },
+            {
+                "id": "mobile-apps-for-creatives",
+                "image": "/images/buttonImages/EssentialCreatives.svg",
+                "text": "Check out some of the best creative mobile apps currently available!"
+            },
+            {
+                "id": "online-apps-for-productivity",
+                "image": "/images/buttonImages/EssentialProductivity.svg",
+                "text": "Check out some great online apps to help with you productivity"
+            }
+        ]
     }
 ]
