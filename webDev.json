@@ -6,22 +6,22 @@
         "buttons": [
             {
                 "id": "/?page=web",
-                "image": "/images/buttonImages/intro.svg",
+                "image": "/images/buttonImages/WebIntro.svg",
                 "text": "An Introduction to what web is, what it can be used for and why it's an important skill for the future"
             },
             {
                 "id": "/?page=vanilla",
-                "image": "/images/buttonImages/robotics.svg",
+                "image": "/images/buttonImages/VanillaWeb.svg",
                 "text": "Learn the basics of web development. This topic will feature HTML , CSS and JavaScript"
             },
             {
                 "id": "/?page=cms",
-                "image": "/images/buttonImages/ai.svg",
+                "image": "/images/buttonImages/CmsWeb.svg",
                 "text": "A different approach to what you're probably used to! learn what makes CMS's so popular!"
             },
             {
                 "id": "/?page=web-builder",
-                "image": "/images/buttonImages/web.svg",
+                "image": "/images/buttonImages/WebBuilder.svg",
                 "text": "A popular option with businesses! find out why with our topic on Web Builders"
             }
         ]
