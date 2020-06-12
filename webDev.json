@@ -6,7 +6,7 @@
         "buttons": [
             {
                 "id": "/?page=web",
-                "image": "/images/buttonImages/webIntro.svg",
+                "image": "/images/buttonImages/intro.svg",
                 "text": "An Introduction to what web is, what it can be used for and why it's an important skill for the future"
             },
             {
