@@ -20,7 +20,7 @@
                 "text": "Dive into the world of robotics and learn the science behind what makes some of the worlds most powerful robots"
             },
             {
-                "id": "/?page=web",
+                "id": "/?navPage=webDev",
                 "image": "/images/buttonImages/web.svg",
                 "text": "Learn how to build your very own website!"
             },

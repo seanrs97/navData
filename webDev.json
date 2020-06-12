@@ -1,0 +1,29 @@
+[
+    {
+        "image": "images/headerImages/CodingBanner1.png",
+        "text": "Web Development",
+        "desc": "Welcome to your introduction to Web Development",
+        "buttons": [
+            {
+                "id": "/?page=web",
+                "image": "/images/buttonImages/intro.svg",
+                "text": "An Introduction to what web is, what it can be used for and why it's an important skill for the future"
+            },
+            {
+                "id": "/?page=vanilla",
+                "image": "/images/buttonImages/robotics.svg",
+                "text": "Learn the basics of web development. This topic will feature HTML , CSS and JavaScript"
+            },
+            {
+                "id": "/?page=cms",
+                "image": "/images/buttonImages/ai.svg",
+                "text": "A different approach to what you're probably used to! learn what makes CMS's so popular!"
+            },
+            {
+                "id": "/?page=web-builder",
+                "image": "/images/buttonImages/web.svg",
+                "text": "A popular option with businesses! find out why with our topic on Web Builders"
+            }
+        ]
+    }
+]
