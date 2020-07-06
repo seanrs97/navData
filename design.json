@@ -1,8 +1,8 @@
 [
     {
         "image": "/images/headerImages/Banner7.png",
-        "text": "3D and 2D Design",
-        "desc": "Welcome to your introduction to 3D and 2D design",
+        "text": "Digital Design",
+        "desc": "Welcome to your introduction to Digital Design",
         "buttons": [
             {
                 "id": "design-introduction",
